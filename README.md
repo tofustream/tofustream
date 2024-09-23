@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tofustream
 - 👀 I’m interested in **functional programming, software architecture, and building scalable systems**.
-- 🌱 I’m currently learning **C++, Rust, Go, and Python.**.
+- 🌱 I’m currently learning **C++, Rust, Go, and Python**.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy exploring new programming languages in my free time and creating simple apps to hone my coding skills.**
 
